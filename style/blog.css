@@ -2,6 +2,14 @@ li {
     background-color: aqua;
     border: 2px solid red;
     border:30%
-
-
 }
+div {
+    background-color: blue;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+}
+#ooo {
+    background-color: red ;
+    
+    
